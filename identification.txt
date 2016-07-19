@@ -1,0 +1,11 @@
+IDENTIFICATION:
+a.) Single-threaded for me is a single function programming language which commonly uses single line command.
+
+b.)Event driven architecture a software that organized the event of data.
+
+c.) The benefits of javascript modules are it provides the progammer a short term coding for the program.
+   It makes the program easier to identify the codes that is used.
+d.) Using javascript becomes increasingly easy over the years.
+    Enterprets and executes command in easy way.  
+e.) Module bundler provides the language a compressed directory that is used in saving the codes. To make the program easier to 
+    work properly.
